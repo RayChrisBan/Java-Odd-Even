@@ -1,2 +1,2 @@
-# Java-User-Input
-Simple Java User Information Input
+# Java-Simple-Odd-Even
+Simple Java Code to determine the Odd and Even numbers.
